@@ -8,19 +8,37 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 The following lists the machine learning model used and then shows the output for their respective balanced accuracy, precision, and recall scores.
 * Resampling Models to Predict Credit Risk
   - Naive Random Oversampling
-  ![text](link)
+  ![Naive Random Oversampling](https://github.com/machudpicchu/Credit_Risk_Analysis/blob/main/Naive_Random_Oversampling.png)
+    - Balanced Accuracy Score: 
+    - Precision Score: 
+    - Recall Score: 
 * SMOTEENN Algorithm to Predict Credit Risk
   - SMOTE Oversampling
-  ![text](link)
+  ![SMOTE Oversampling](https://github.com/machudpicchu/Credit_Risk_Analysis/blob/main/SMOTE_Oversampling.png)
+    - Balanced Accuracy Score: 
+    - Precision Score: 
+    - Recall Score: 
 * Undersampling
-  ![text](link)
+  ![Undersampling](https://github.com/machudpicchu/Credit_Risk_Analysis/blob/main/Undersampling.png)
+    - Balanced Accuracy Score: 
+    - Precision Score: 
+    - Recall Score: 
 * Combination (Over and Under) Sampling
-  ![text](link)
+  ![Combination Sampling](https://github.com/machudpicchu/Credit_Risk_Analysis/blob/main/Combination_Over_Under_Sampling.png)
+    - Balanced Accuracy Score: 
+    - Precision Score: 
+    - Recall Score: 
 * Ensemble Classifiers
   - Balanced Random Forest Classifier
-  ![text](link)
+  ![Balanced Random Forest Classifier](https://github.com/machudpicchu/Credit_Risk_Analysis/blob/main/Balanced_Random_Forest_Classifier.png)
+    - Balanced Accuracy Score: 
+    - Precision Score: 
+    - Recall Score: 
   - Easy Ensemble AdaBoost Classifier
-  ![text](link)
+  ![Easy Ensemble AdaBoost Classifier](https://github.com/machudpicchu/Credit_Risk_Analysis/blob/main/Easy_Ensemble_AdaBoost_Classifier.png)
+    - Balanced Accuracy Score: 
+    - Precision Score: 
+    - Recall Score: 
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models. (15 pts)
